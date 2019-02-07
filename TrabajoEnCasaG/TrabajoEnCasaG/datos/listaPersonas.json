@@ -1,0 +1,3 @@
+{nombre:Juan,apellido:Lopez,edad:33,casa:{nombrePropiedad:CasaPepe,direccion:Avda de la población,precio:240000}}
+{nombre:Manuel,apellido:Glez,edad:24,casa:{nombrePropiedad:VillaLaMasMaja,direccion:miDireccion,precio:100000}}
+{nombre:Maria,apellido:Campos,edad:56,casa:{nombrePropiedad:CasaPepe,direccion:Avda de la población,precio:240000}}
